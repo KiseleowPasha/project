@@ -1,0 +1,51 @@
+[
+    {
+        "productName":"Small Gamburger",
+        "productPrice":50,
+        "productCal":20,
+        "productImg":"https://e1.pngegg.com/pngimages/921/289/png-clipart-sa-y-people-cheeseburger-illustration.png",
+        "productId":"prod_0"
+    },
+    {
+        "productName":"Big Gamburger",
+        "productPrice":100,
+        "productCal":40,
+        "productImg":"https://w7.pngwing.com/pngs/330/110/png-transparent-cheeseburger-whopper-big-king-hamburger-mcdonald-s-big-mac-burger-king.png",
+        "productId":"prod_1"
+    },
+    {
+        "productName":"Cheese",
+        "productPrice":10,
+        "productCal":20,
+        "productImg":"https://w7.pngwing.com/pngs/533/726/png-transparent-milk-cheese-food-ingredient-cheese-food-breakfast-cheese.png",
+        "productId":"prod_2"
+    },
+    {
+        "productName":"Salad",
+        "productPrice":20,
+        "productCal":5,
+        "productImg":"https://n7.nextpng.com/sticker-png/737/485/sticker-png-lettuce-lettuce-vegetables-lettuce-clipart-thumbnail.png",
+        "productId":"prod_3"
+    },
+    {
+        "productName":"Potatoes",
+        "productPrice":15,
+        "productCal":10,
+        "productImg":"https://w7.pngwing.com/pngs/962/807/png-transparent-irish-cuisine-idaho-potato-commission-vegetable-food-potato-tomato-eating-vegetables.png",
+        "productId":"prod_4"
+    },
+    {
+        "productName":"Seasoning",
+        "productPrice":15,
+        "productCal":0,
+        "productImg":"https://w7.pngwing.com/pngs/663/486/png-transparent-herbalism-seasoning-spoon-commodity-suncream-superfood-seasoning-commodity.png",
+        "productId":"prod_5"
+    },
+    {
+        "productName":"Mayonnaise",
+        "productPrice":20,
+        "productCal":5,
+        "productImg":"https://pngimg.com/uploads/mayonnaise/mayonnaise_PNG25.png",
+        "productId":"prod_6"
+    }
+]
