@@ -3,42 +3,48 @@
         "productName":"Small Gamburger",
         "productPrice":50,
         "productCal":20,
-        "productImg":"https://e1.pngegg.com/pngimages/921/289/png-clipart-sa-y-people-cheeseburger-illustration.png",
+        "productImg":"https://avatanplus.com/files/resources/original/5c79e571b43651693c28444a.png",
+        "productClass":"main-products",
         "productId":"prod_0"
     },
     {
         "productName":"Big Gamburger",
         "productPrice":100,
         "productCal":40,
-        "productImg":"https://w7.pngwing.com/pngs/330/110/png-transparent-cheeseburger-whopper-big-king-hamburger-mcdonald-s-big-mac-burger-king.png",
+        "productImg":"https://avatanplus.com/files/resources/original/5c79e463c15f81693c2425d0.png",
+        "productClass":"main-products",
         "productId":"prod_1"
     },
     {
         "productName":"Cheese",
         "productPrice":10,
         "productCal":20,
-        "productImg":"https://w7.pngwing.com/pngs/533/726/png-transparent-milk-cheese-food-ingredient-cheese-food-breakfast-cheese.png",
+        "productImg":"https://pngimg.com/uploads/cheese/cheese_PNG25303.png",
+        "productClass":"toppings",
         "productId":"prod_2"
     },
     {
         "productName":"Salad",
         "productPrice":20,
         "productCal":5,
-        "productImg":"https://n7.nextpng.com/sticker-png/737/485/sticker-png-lettuce-lettuce-vegetables-lettuce-clipart-thumbnail.png",
+        "productImg":"https://avatanplus.com/files/resources/original/57974e5d77158156270a1d30.png",
+        "productClass":"toppings",
         "productId":"prod_3"
     },
     {
         "productName":"Potatoes",
         "productPrice":15,
         "productCal":10,
-        "productImg":"https://w7.pngwing.com/pngs/962/807/png-transparent-irish-cuisine-idaho-potato-commission-vegetable-food-potato-tomato-eating-vegetables.png",
+        "productImg":"https://st43.stblizko.ru/images/product/226/003/865_original.png",
+        "productClass":"toppings",
         "productId":"prod_4"
     },
     {
         "productName":"Seasoning",
         "productPrice":15,
         "productCal":0,
-        "productImg":"https://w7.pngwing.com/pngs/663/486/png-transparent-herbalism-seasoning-spoon-commodity-suncream-superfood-seasoning-commodity.png",
+        "productImg":"https://img1.liveinternet.ru/images/attach/c/8/125/822/125822053_7523919.png",
+        "productClass":"supplements",
         "productId":"prod_5"
     },
     {
@@ -46,6 +52,7 @@
         "productPrice":20,
         "productCal":5,
         "productImg":"https://pngimg.com/uploads/mayonnaise/mayonnaise_PNG25.png",
+        "productClass":"supplements",
         "productId":"prod_6"
     }
 ]
